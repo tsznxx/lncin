@@ -1,0 +1,5 @@
+lncin	1.0.0 first release:
+	Algorithm: 
+		aRRA
+		fetchSeq: given genome file in .fa format and gene annotation file in genepred format, fetch 3'UTR or whole sequence.
+
